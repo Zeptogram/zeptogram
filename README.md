@@ -8,6 +8,7 @@ My name is Elio and i am an Italian 20 y/o student.
 You can find my contacts here: **https://zeptogram.github.io/**   
 Check my projects out if you want =)
 
+![alt text](https://github.com/Zeptogram/zeptogram/blob/main/bsod.jpg?raw=true)
 <!--
 **Zeptogram/zeptogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
