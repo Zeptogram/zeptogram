@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello everyone ;)
+
+This is my GitHub page where i will upload my future stuff and university projects.
+
+### About me ⚡
+
+My name is Elio and i am an Italian 20 y/o student.
+You can find my contacts here: **https://zeptogram.github.io/**   
+Check my projects out if you want =)
 
 <!--
 **Zeptogram/zeptogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
