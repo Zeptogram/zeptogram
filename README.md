@@ -4,7 +4,7 @@ This is my GitHub page where i will upload my future stuff and university projec
 
 ### About me ⚡
 
-My name is Elio and i am an Italian 23 y/o student and C.S graduate.  
+My name is Elio and i am an Italian 24 y/o Master’s degree C.S graduate.  
 You can find my contacts here: **https://zeptogram.github.io/**   
 Check my projects out if you want =)
 
