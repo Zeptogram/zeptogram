@@ -2,7 +2,7 @@
 
 My name is Elio Gargiulo, Master’s graduate in Computer Science at University of Milano-Bicocca.
 
-Technology & Programming Enthusiast
+Technology & Programming Enthusiast.
 
 ### Programming Languages  
 
