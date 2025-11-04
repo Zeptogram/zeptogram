@@ -4,7 +4,7 @@ My name is Elio Gargiulo, Master’s graduate in Computer Science at University 
 
 Technology & Programming Enthusiast.
 
-You can find some of my project in the pinned repositories down below.
+You can find some of my projects in the pinned repositories down below.
 
 ### Programming Languages  
 
