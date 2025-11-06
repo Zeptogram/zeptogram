@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile!
 
-My name is Elio Gargiulo, Master’s graduate in Computer Science at University of Milano-Bicocca.
+My name is Elio Gargiulo, Master’s graduate in Computer Science at University of Milan-Bicocca.
 
 Technology & Programming Enthusiast.
 
